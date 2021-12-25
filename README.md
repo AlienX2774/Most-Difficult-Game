@@ -1,1 +1,2 @@
-This is a game created entirely in C++. Using the old graphics. This can be run only using dosbox as the graphiocs are no longer supported.
+A simple game with the objective of reaching the green area while dodging the red attackers.
+This game was made using graphics in C++, which may not be supported in most compilers now a days.
